@@ -23,3 +23,13 @@ html and css
 -shows hello microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Author1**
+
+Omaidu Othniel
+
+- GitHub: [@githubhandle](https://github.com/othniel2471)
+- Twitter: [@twitterhandle](Oomaidu)
+- LinkedIn: [LinkedIn](othniel omaidu)
