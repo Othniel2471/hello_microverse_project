@@ -32,4 +32,6 @@ Omaidu Othniel
 
 - GitHub: [@githubhandle](https://github.com/othniel2471)
 - Twitter: [@twitterhandle](Oomaidu)
-- LinkedIn: [LinkedIn](othniel omaidu)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/othniel-omaidu-3350a9164)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
